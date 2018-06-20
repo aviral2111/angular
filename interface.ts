@@ -66,7 +66,7 @@ console.log("p");
 printStudent(obj);
 }
 function OnReset()
-{
+{//test
 var obj : Student = new Student();
 console.log("h");
     (<HTMLInputElement>document.getElementById("name")).value="";
